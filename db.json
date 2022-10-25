@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieName": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "movieGenre": "Drama",
+      "yearConstruction": 1972,
+      "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son."
+    },
+    {
+      "id": 2,
+      "movieName": " The Wizard of Oz",
+      "director": "Victor Fleming",
+      "movieGenre": "Adventure",
+      "yearConstruction": 1939,
+      "description": "Young Dorothy Gale and her dog are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes."
+    },
+    {
+      "id": 3,
+      "movieName": "Psycho",
+      "director": "Alfred Hitchcock",
+      "movieGenre": "Horror",
+      "yearConstruction": 1960,
+      "description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother."
+    },
+    {
+      "id": 4,
+      "movieName": "The Philadelphia Story ",
+      "director": " George Cukor ",
+      "movieGenre": "Comedy",
+      "yearConstruction": 1940,
+      "description": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself."
+    },
+    {
+      "id": 5,
+      "movieName": "Gladiator ",
+      "director": "Ridley Scott ",
+      "movieGenre": "Action",
+      "yearConstruction": 2000,
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    }
+  ]
+}
